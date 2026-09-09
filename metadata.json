@@ -1,0 +1,7 @@
+{
+  "name": "Global B2B Buyer & Importer Directory",
+  "description": "Verified directory and outreach CRM for B2B buyers, importers, wholesalers, distributors, and retailers across global trade markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
